@@ -10,4 +10,7 @@
 
 ul {
   list-style: none;
+}#search {
+  width: 300px;
+  margin-right: 10px;
 }
